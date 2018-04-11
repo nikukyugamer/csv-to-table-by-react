@@ -2,6 +2,9 @@
 - raw csv file to HTML table by React
 - only frontend
 
+# Built Page
+- https://corselia.github.io/csv-to-table-by-react/
+
 # Build
 
 #### 1. yarn
