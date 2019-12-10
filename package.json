@@ -8,6 +8,11 @@
     "papaparse": "^4.3.7",
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.12",
-    "xmlhttprequest": "^1.8.0"
+    "xmlhttprequest": "^1.8.0",
+    "serialize-javascript": "^2.1.1",
+    "csv-parse": "^4.4.6",
+    "tar": "^2.2.2",
+    "lodash": "^4.17.12",
+    "mem": "^4.0.0"
   }
 }
