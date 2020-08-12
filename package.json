@@ -9,7 +9,7 @@
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.12",
     "xmlhttprequest": "^1.8.0",
-    "serialize-javascript": "^2.1.1",
+    "serialize-javascript": "^3.1.0",
     "csv-parse": "^4.4.6",
     "tar": "^2.2.2",
     "lodash": "^4.17.19",
