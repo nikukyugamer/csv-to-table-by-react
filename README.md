@@ -3,7 +3,7 @@
 - only frontend
 
 # Built Page
-- https://corselia.github.io/csv-to-table-by-react/
+- https://nikukyugamer.github.io/csv-to-table-by-react/
 
 # Build
 
