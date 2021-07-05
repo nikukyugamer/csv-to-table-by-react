@@ -5,7 +5,7 @@
     "lodash": "4.17.21",
     "mem": "8.0.0",
     "papaparse": "5.3.1",
-    "serialize-javascript": "5.0.1",
+    "serialize-javascript": "6.0.0",
     "tar": "6.0.5",
     "webpack": "5.42.1",
     "webpack-cli": "4.2.0",
