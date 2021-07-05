@@ -2,7 +2,7 @@
   "dependencies": {
     "babel-loader": "8.2.2",
     "csv-parse": "4.14.1",
-    "lodash": ">=4.17.21",
+    "lodash": "4.17.21",
     "mem": "8.0.0",
     "papaparse": "5.3.0",
     "serialize-javascript": "5.0.1",
