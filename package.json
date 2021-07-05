@@ -1,15 +1,15 @@
 {
   "dependencies": {
     "babel-loader": ">=7.1.4",
-    "csv-parse": ">=4.4.6",
+    "csv-parse": "4.14.1",
     "lodash": ">=4.17.21",
-    "mem": ">=4.0.0",
-    "papaparse": ">=5.2.0",
-    "serialize-javascript": ">=3.1.0",
-    "tar": ">=2.2.2",
-    "webpack": ">=4.1.1",
-    "webpack-cli": ">=2.0.12",
-    "xmlhttprequest": ">=1.8.0"
+    "mem": "8.0.0",
+    "papaparse": "5.3.0",
+    "serialize-javascript": "5.0.1",
+    "tar": "6.0.5",
+    "webpack": "5.9.0",
+    "webpack-cli": "4.2.0",
+    "xmlhttprequest": "1.8.0"
   },
   "devDependencies": {
     "@babel/core": ">=7.12.9",
