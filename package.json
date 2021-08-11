@@ -12,7 +12,7 @@
     "mem": "9.0.1",
     "papaparse": "5.3.1",
     "serialize-javascript": "6.0.0",
-    "tar": "6.1.6",
+    "tar": "6.1.8",
     "webpack": "5.49.0",
     "webpack-cli": "4.7.2",
     "xmlhttprequest": "1.8.0"
