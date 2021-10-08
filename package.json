@@ -13,7 +13,7 @@
     "papaparse": "5.3.1",
     "serialize-javascript": "6.0.0",
     "tar": "6.1.11",
-    "webpack": "5.55.1",
+    "webpack": "5.58.1",
     "webpack-cli": "4.8.0",
     "xmlhttprequest": "1.8.0"
   }
