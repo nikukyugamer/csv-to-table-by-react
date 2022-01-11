@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "@babel/core": "7.16.7",
-    "@babel/preset-env": "7.16.7",
+    "@babel/preset-env": "7.16.8",
     "@babel/preset-es2015": "7.0.0-beta.53",
     "babel-loader": "8.2.3",
     "babel-preset-es2015": "6.24.1",
