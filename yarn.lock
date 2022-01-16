@@ -3102,7 +3102,7 @@ __metadata:
     babel-preset-es2015: 6.24.1
     csv-parse: 5.0.4
     lodash: 4.17.21
-    mem: 9.0.1
+    mem: 9.0.2
     papaparse: 5.3.1
     serialize-javascript: 6.0.0
     tar: 6.1.11
@@ -3663,13 +3663,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mem@npm:9.0.1":
-  version: 9.0.1
-  resolution: "mem@npm:9.0.1"
+"mem@npm:9.0.2":
+  version: 9.0.2
+  resolution: "mem@npm:9.0.2"
   dependencies:
     map-age-cleaner: ^0.1.3
     mimic-fn: ^4.0.0
-  checksum: 90ca89181170fda87f98e57a6d14b75dc66d1cee35fbe5d2f3ca89aac9f15341442468b03749191c92c3c552e9889ff29ded9da3b27302e8250520b65cc58f43
+  checksum: 07829bb182af0e3ecf748dc2edb1c3b10a256ef10458f7e24d06561a2adc2b3ef34d14abe81678bbcedb46faa477e7370223f118b1a5e1252da5fe43496f3967
   languageName: node
   linkType: hard
 
