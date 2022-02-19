@@ -41,7 +41,7 @@ class MyPapa {
       enableFilter: true
     };
 
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener('DOMContentLoaded', function() {
       let eGridDiv = document.querySelector('#myGrid');
       new agGrid.Grid(eGridDiv, gridOptions);
     });
@@ -52,7 +52,7 @@ class MyPapa {
     let tmpHash = {};
 
     for(let i = 1; i < papaData.length; i++) {
-      // 臭う
+      // TODO: リファクタリング
       tmpHash = {};
       tmpHash.date = papaData[i][0];
       tmpHash.pv   = papaData[i][1];
@@ -63,19 +63,7 @@ class MyPapa {
     }
 
     this.showCsvDataToTableByAgGrid(agGridData);
-    // return agGridData;
   };
 }
 
 module.exports = MyPapa;
-
-// <div class="class1 hello class2">this is smaple</div>
-// console.log(getByRegExp(/\A(.*)hello\z/).innerText);
-// ElementsByClassName('sample').innerText); // this is sample
-//
-// addEventListener('mouseOff', function() {
-//
-// $.ajax.(#sample)(value, callback()
-// XHR: XMLHttpRequest
-// xhr = new XMLHttpRequest;
-//

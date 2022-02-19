@@ -9,13 +9,13 @@ module.exports = {
       {
         test: /\.js$/,
         exclude: /node_modules/,
-        loader: "babel-loader",
+        loader: 'babel-loader',
         options: {
           presets: ['@babel/preset-env']
         }
       }
     ]
   },
-  target: "node",
-  mode: "production"
+  target: 'node',
+  mode: 'production'
 };
