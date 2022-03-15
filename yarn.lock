@@ -3255,7 +3255,7 @@ __metadata:
     csv-parse: 5.0.4
     lodash: 4.17.21
     mem: 9.0.2
-    papaparse: 5.3.1
+    papaparse: 5.3.2
     serialize-javascript: 6.0.0
     tar: 6.1.11
     webpack: 5.70.0
@@ -4001,10 +4001,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"papaparse@npm:5.3.1":
-  version: 5.3.1
-  resolution: "papaparse@npm:5.3.1"
-  checksum: 3431917bb46f8952e49ca64ecc9107ddf05291573ef666c8fac4e172b57780d131f1af925b47841039bd5ae0ceadc2eafbcb8183c092307442f85eed11f82b69
+"papaparse@npm:5.3.2":
+  version: 5.3.2
+  resolution: "papaparse@npm:5.3.2"
+  checksum: a5950ef931a42f6759a8d3823a43dd30f375b37a0ddea6ea5448c0c5024cd226819231958c49c24fbcdeab297c63fd1d630130b3439876ea0fd17d8a267738ae
   languageName: node
   linkType: hard
 
